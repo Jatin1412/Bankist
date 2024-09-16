@@ -36,6 +36,12 @@ Open the index.html file in your browser.
 
 No additional setup or installation is required as this is a frontend project.
 
+# UI
+
+![Screenshot 2024-09-16 152127](https://github.com/user-attachments/assets/7807e6a5-2e33-4648-a772-023335235014)
+
+#
+
 How to Use
 Log In:
 
