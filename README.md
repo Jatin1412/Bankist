@@ -40,7 +40,7 @@ How to Use
 Log In:
 
 You can log in using one of the two demo accounts:
-Username: js | PIN: 1111
+Username: jk | PIN: 1111
 Username: jd | PIN: 2222
 View Transactions: After logging in, you will see all the past transactions with their respective dates.
 
