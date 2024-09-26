@@ -322,4 +322,5 @@ btnSort.addEventListener('click', function (e) {
   sorted = !sorted;
 });
 
-
+//TEST
+console.log("tested");
